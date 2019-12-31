@@ -1,0 +1,13 @@
+name;category;stars;latitude;longitude;city;zip;cuisine;price;url;Beschreibung;address;tel_1;email
+Edvard;restaurants;1;48.216503;16.36852;Wien;1010;Modern;$$$$;https://guide.michelin.com/at/en/vienna/wien/restaurant/edvard;;;;
+Das Loft;restaurants;1;48.21272;16.37931;Wien;1020;Modern;$$$$$;https://guide.michelin.com/at/en/vienna/wien/restaurant/das-loft;;;;
+Pramerl & the Wolf;restaurants;1;48.20945;16.37174;Wien;1090;Creative;$$$$$;https://guide.michelin.com/at/en/vienna/wien/restaurant/pramerl-the-wolf;;;;
+Mraz & Sohn;restaurants;2;48.23129;16.37637;Wien;1200;Creative;$$$$$;https://guide.michelin.com/at/en/vienna/wien/restaurant/mraz-sohn;;;;
+Konstantin Filippou;restaurants;2;48.21056;16.37996;Wien;1010;Modern;$$$$$;https://guide.michelin.com/at/en/vienna/wien/restaurant/konstantin-filippou;;;;
+Silvio Nickol Gourmet Restaurant;restaurants;2;48.20558;16.37693;Wien;1010;Modern;$$$$$;https://guide.michelin.com/at/en/vienna/wien/restaurant/silvio-nickol-gourmet-restaurant;;;;
+Steirereck im Stadtpark;restaurants;2;48.20229;16.3805;Wien;1030;Creative;$$$$$;https://guide.michelin.com/at/en/vienna/wien/restaurant/steirereck-im-stadtpark;;;;
+Amador;restaurants;3;48.25406;16.35915;Wien;1190;Creative;$$$$$;https://guide.michelin.com/at/en/vienna/wien/restaurant/amador;;;;
+Anna Sacher;restaurants;0;48.203866300;16.3697551;Wien;1010;traditional;$$$$;http://www.sacher.com/portal/locations-de/anna-sacher;Facettenreich wie der Charakter seiner Namensgeberin präsentiert sich dieses 2-Hauben-Restaurant;Philharmonikerstraße 4 ;+43 1 514 56 840 ;
+Gergely's;restaurants;0;48.191094000;16.3593266;Wien;1050;modern;$$$$;http://www.gergelys.at/portal/locations-de/gergelys-schlossquadrat;Das Angebot in diesem Szeneviertel reicht von gediegener österreichischer Küche beim Silberwirt bis zu italienischen Köstlichkeiten in der Trattoria Margareta.;Schlossgasse 21 ;+43 1 544 07 67 ;
+Motto;restaurants;0;48.192940900;16.3575794;Wien;1050;international;$$;http://www.motto.at/portal/locations-de/motto;"Das Restaurant Motto bewährt sich seit Jahren als Hotspot der Wiener Gastro-Szene. Hier mischen sich internationale Stars gerne unter das bunte Volk der ""Motto-Gäste"".";Schönbrunner Straße 30 ;+43 1 587 06 72 ;info@motto.at
+Restaurant Vestibül;restaurants;0;48.210367800;16.3609253;Wien;1010;traditional;$$$$;http://www.vestibuel.at/portal/locations-de/restaurant-vestibuel;Das Lokal im Burgtheater ist eine Großstadtbrasserie der Sonderklasse mit einem der schönsten Gastgärten der Stadt.;"Burgtheater, Universitätsring 2";+43 1 532 49 99;restaurant@vestibuel.at
