@@ -13,6 +13,8 @@
   - action_query_knowledge_base
 * query_knowledge_base
   - action_query_knowledge_base
+* thanks
+  - utter_thanks
 * goodbye
   - utter_goodbye
 
@@ -31,3 +33,11 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## capabilities
+* capabilities
+  - utter_capabilities
+
+## thanks
+* thanks
+  - utter_thanks
