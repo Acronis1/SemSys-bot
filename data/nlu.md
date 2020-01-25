@@ -33,14 +33,14 @@
 - does [it](mention) have any Michelin [star](attribute:stars)?
 - do you know what [cuisine](attribute) the [last one](mention:LAST) has?
 - does [Donath](restaurant) have [outside seating](attribute:outside-seating)?
-- what is the [price range](attribute:price) of [Berlin Burrito Company](restaurant)?
 - what is the [price](attribute:price) range of [Berlin Burrito Company](restaurant)?
+- what's the [price](attribute:price) range of [Berlin Burrito Company](restaurant)?
 - what is with [Anna Sacher](restaurant)?
 - Do you also have any [Vietnamese](cuisine) [restaurants](object_type:restaurant)?
 - What about any [Mexican](cuisine) [restaurants](object_type:restaurant)?
 - What about any [traditional](cuisine) [restaurants](object_type:restaurant)?
 - Do you also know some [Italian](cuisine) [restaurants](object_type:restaurant)?
-- can you tell me the [price range](attribute:price) of [that restaurant](mention)?
+- can you tell me the [price](attribute:price) range of [that](mention) restaurant?
 - what [cuisine](attribute) do [they](mention) have?
 - can you send me the [url](attribute:url) for [that](mention)?
 - can you send me the [website](attribute:url) for [that](mention)?

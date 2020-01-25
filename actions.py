@@ -55,7 +55,7 @@ class ActionMyKB(ActionQueryKnowledgeBase):
                 print(attribute_name)
                 print(type(attribute_name))
                 dispatcher.utter_message(
-                    text=f"'{object_name}' has the value custom '{attribute_value}' for attribute '{attribute_name}'."
+                    text=f"'{object_name}' has the value '{attribute_value}' for attribute '{attribute_name}'."
                 )
             else:
                 dispatcher.utter_message(

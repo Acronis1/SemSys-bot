@@ -3,8 +3,9 @@ intents:
   - goodbye
   - query_knowledge_base
   - bot_challenge
-  - capabilites
+  - capabilities
   - thanks
+  - start
 
 entities:
   - object_type
